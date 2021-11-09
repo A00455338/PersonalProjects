@@ -1,0 +1,44 @@
+.ListText{
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.Input{
+    text-align: center;
+    padding: 40px 300px 0px 0px;;
+}
+
+.minus-img{
+    height: 20px;
+    width: 30px;
+}
+
+.ListDiv{
+    
+    margin-left: 200px;
+    width: 3 0%;
+    float: left;
+}
+
+.AddItem{
+    border-radius: 5px;
+    padding: 5px 0px 5px 10px;
+    width:16%;
+    border-color:darkgrey;
+    background-color: transparent;
+    color: black;
+}
+
+a{
+    margin:21px 0px 0px 10px;
+    padding:4px;
+    font-style: italic;
+    font-size: 13px;
+    border: 2px solid grey;
+    border-radius: 4px;
+    font-style: inherit;
+    color: black;
+}
+a:hover{
+    color: chocolate;
+    border-color: chocolate;
+}
